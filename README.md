@@ -20,6 +20,8 @@
   <img align="center" alt="ch-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ch-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ch-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-yo" src="https://cdn.discordapp.com/attachments/1238852545716420614/1309172019358732289/kamina.gif?ex=67409cf4&is=673f4b74&hm=012daa554fb4e0f613c8e220bab99721741162dec814aebcbc36a4414238ffbb&">
+
 </div>
 
 ##
