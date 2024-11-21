@@ -3,7 +3,6 @@
 - 🔭 Atualmente sou Estagiario em Infra, no Bradesco
 - 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me por e-mail: christian.santos.sousa@gmail.com
-- 😄 Pronouns: ele/dele
 ##
 <div>
   <a href="https://github.com/ChstianSantos">
